@@ -2,6 +2,7 @@ import ResetPasswordPage from '@/appPages/auth/components/pages/ResetPasswordPag
 
 const page = () => {
 	//kkkk
+	//kkkk
 	return (
 		<div>
 			<ResetPasswordPage />
